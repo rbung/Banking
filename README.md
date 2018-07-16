@@ -1,5 +1,9 @@
 # Banking
 
+[![Build Status](https://travis-ci.org/rbung/Banking.svg?branch=master)](https://travis-ci.org/rbung/Banking)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+
 ## Feature to implement
 
 ```text
